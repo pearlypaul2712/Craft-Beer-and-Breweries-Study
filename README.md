@@ -8,8 +8,21 @@ We were provided with two separate data sets, one with details of the beers and 
 ## STRUCTURE OF OF THE GITHUB PROFILE
 Our github profile is organized in the below structure.
 **Profile  Link : <<Add our Link >>**
-  - **Readme.md** : This file is present in the landing page. It contains the detailed structure of the github profile.All the details of our project is organized in structured manner.
-  - **Craft_Beer_Brewery.Rmd** : This is our batch R mark down file it contains the detailed code of the EDA analysis we performed on the datasets that were provided.
-  - **Craft_Beer_brewery.html** : This is the html format of the Rmarkdown file. This contains the well commented code and the output in the same file.
-  - **Craft_Beer_brewery.R**: This file is the Initial Data Analysis in R format.
+  - **[/Readme.md](/Readme.md)** : This file is present in the landing page. It contains the detailed structure of the github profile.All the details of our project is organized in structured manner.
+  - **[/Craft_Beer_and_Breweries_Analysis.Rmd](/Craft_Beer_and_Breweries_Analysis.Rmd)** : This is our batch R mark down file it contains the detailed code of the EDA analysis we performed on the datasets that were provided.
+  - **[/Craft beer breweries.R](/Craft_beer_breweries.R)**: This file is the Initial Data Analysis in R format.
 **Data Files : Below are the data files that were provided for analysis.
+  - **[/Craft Beer Breweries.html](/Craft_Beer_Breweries.html)**: This is the Final EDA report in html format. This report can be opened in any browser and  has both the code and output knitted in a stylish format.
+  - **[/Craft Beer Presentation Final EDA.pptx](/Craft_Beer_Presentation_Final_EDA.pptx)** : This is the powerpoint presentation that was prepared to present the insights we found while analysis to the clients.
+  
+  - **[/Analysis](/Analysis)** : This  is the analysis directory contains the R scripts which were used in this analsysis. Below are the R scripts.
+    - **[/Analysis/Project 1 - Packages_Libraries.R](/Analysis/Project_1_-_Packages_Libraries.R)** : This  R file contains all the  R packages which were loaded into the system for this analysis 
+    - **[/Analysis/Project 1 - Gather.R](Analysis/Project_1_-_Gather.R)**: This  R script file is used to load the data and clean the data before analysis.
+    - **[/Analysis/Project 1 - Analysis.R](/Analysis/Project_1_-_Analysis.R)**: This  R script file is used for analysis of the datasets *(Beers.csv and Breweries.csv)* provided by the Client. 
+
+## DATASETS USED AND PROVIDED FOR ANALYSIS :
+  - **[/dataset/Beers.csv](/dataset/Beers.csv)** : This dataset was provided by our clients of Craft Beer. This dataset contains the details of all the beers made by Craft breweries in US.  
+  - **[/dataset/Breweries.csv](/dataset/Breweries.csv)** : This dataset was provided by our clients of Craft Beer. This dataset contains the details of all the  Craft breweries in US.  
+  - **[/dataset/Beers_and_Breweries_merged.csv](/dataset/Beers_and_Breweries_merged.csv)** : As part of the EDA we merged the Beers and Breweries dataset to analyze the beers made in every States
+  - **[/dataset/Region_State.csv](/dataset/Region_State.csv)** : As part of our analsysis we created this dataset to group the States by region to come up with valuable insights.
+  
