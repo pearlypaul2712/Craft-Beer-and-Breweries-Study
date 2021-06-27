@@ -13,7 +13,7 @@ Our github profile is organized in the below structure.
   - **[/Craft beer breweries.R](https://github.com/pearlypaul2712/Craft-Beer-and-Breweries-Study/blob/a02b50e173b2e1558af5e49580bc5945e363788d/Craft%20beer%20breweries.R)**: This file is the Initial Data Analysis in R format.
 **Data Files : Below are the data files that were provided for analysis.
   - **[/Craft Beer Breweries.html](https://github.com/pearlypaul2712/Craft-Beer-and-Breweries-Study/blob/a02b50e173b2e1558af5e49580bc5945e363788d/Craft%20Beer%20Breweries.html)**: This is the Final EDA report in html format. This report can be opened in any browser and  has both the code and output knitted in a stylish format.
-  - **[/Craft Beer Presentation Final EDA.pptx](https://github.com/pearlypaul2712/Craft-Beer-and-Breweries-Study/blob/a02b50e173b2e1558af5e49580bc5945e363788d/Craft%20Beer%20Presentation%20Final%20EDA.pptx)** : This is the powerpoint presentation that was prepared to present the insights we found while analysis to the clients.
+  - **[/Craft Beer Presentation Final EDA.pptx](https://github.com/pearlypaul2712/Craft-Beer-and-Breweries-Study/blob/9d05afc4f987d2631a1256ff73ff255fe66e6e94/Craft_Beer_Presentation_Final_EDA.pptx)** : This is the powerpoint presentation that was prepared to present the insights we found while analysis to the clients.
   - **[/Craft Beer Breweries_PDF.pdf](https://github.com/pearlypaul2712/Craft-Beer-and-Breweries-Study/blob/604c96184cfab8d25160fe830e9686f7daf0a2e9/Craft%20Beer%20Breweries_PDF.pdf)** :This is the Final EDA in pdf format. This pdf file contains the well documented and commented code and output.
   
   
